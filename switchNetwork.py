@@ -11,7 +11,7 @@ import subprocess
 
 
 NET_WLAN_NAME = "WLAN"
-NET_LOCAL_NAME = "内网"
+NET_LOCAL_NAME = "工作网"
 
 def is_admin():
     try:
